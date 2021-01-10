@@ -84,4 +84,4 @@ type IIPIntegration struct {
 	Intno     string `json:"intno"`
 	Gitloc    string `json:"gitloc"`
 	Composite string `json:"composite"`
-}
+ }
